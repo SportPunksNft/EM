@@ -8,12 +8,11 @@ html,body
     margin: 0px;
     padding: 0px;
     overflow-x: hidden; 
+    font-family: "Open Sans", sans-serif;
 }
-body {
-  background: #fff;
-  color: #666666;
-  font-family: "Open Sans", sans-serif;
-}
+
+  
+
 
 a {
   color: #03C4EB;
