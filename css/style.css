@@ -478,7 +478,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /*imagenes del app*/
 
 .app{
-  height: auto;
+   height: 80vh;
   margin-top: 60px;
 }
 .gallery img{
@@ -512,6 +512,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   .letras img{
     width: 200px;
   }
+  .app{
+   height: 50vh;
+  
+}
  }
 
 
